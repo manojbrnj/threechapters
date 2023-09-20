@@ -1,0 +1,19 @@
+{
+  "name": "hountedhouse",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lil-gui": "^0.18.2",
+    "lit": "^2.7.6",
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
